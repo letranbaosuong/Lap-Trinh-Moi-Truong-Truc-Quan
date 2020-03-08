@@ -1,0 +1,11 @@
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_2\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\netcoreapp3.1\BaiTapLoiChao.exe
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_2\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\netcoreapp3.1\BaiTapLoiChao.deps.json
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_2\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\netcoreapp3.1\BaiTapLoiChao.runtimeconfig.json
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_2\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\netcoreapp3.1\BaiTapLoiChao.runtimeconfig.dev.json
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_2\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\netcoreapp3.1\BaiTapLoiChao.dll
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_2\BaiTapLoiChao\BaiTapLoiChao\bin\Debug\netcoreapp3.1\BaiTapLoiChao.pdb
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_2\BaiTapLoiChao\BaiTapLoiChao\obj\Debug\netcoreapp3.1\BaiTapLoiChao.csprojAssemblyReference.cache
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_2\BaiTapLoiChao\BaiTapLoiChao\obj\Debug\netcoreapp3.1\BaiTapLoiChao.AssemblyInfoInputs.cache
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_2\BaiTapLoiChao\BaiTapLoiChao\obj\Debug\netcoreapp3.1\BaiTapLoiChao.AssemblyInfo.cs
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_2\BaiTapLoiChao\BaiTapLoiChao\obj\Debug\netcoreapp3.1\BaiTapLoiChao.dll
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_2\BaiTapLoiChao\BaiTapLoiChao\obj\Debug\netcoreapp3.1\BaiTapLoiChao.pdb

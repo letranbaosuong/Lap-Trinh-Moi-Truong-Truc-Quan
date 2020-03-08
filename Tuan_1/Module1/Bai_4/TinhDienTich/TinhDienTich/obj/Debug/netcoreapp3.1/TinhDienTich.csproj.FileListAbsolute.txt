@@ -1,0 +1,11 @@
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_4\TinhDienTich\TinhDienTich\bin\Debug\netcoreapp3.1\TinhDienTich.exe
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_4\TinhDienTich\TinhDienTich\bin\Debug\netcoreapp3.1\TinhDienTich.deps.json
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_4\TinhDienTich\TinhDienTich\bin\Debug\netcoreapp3.1\TinhDienTich.runtimeconfig.json
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_4\TinhDienTich\TinhDienTich\bin\Debug\netcoreapp3.1\TinhDienTich.runtimeconfig.dev.json
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_4\TinhDienTich\TinhDienTich\bin\Debug\netcoreapp3.1\TinhDienTich.dll
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_4\TinhDienTich\TinhDienTich\bin\Debug\netcoreapp3.1\TinhDienTich.pdb
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_4\TinhDienTich\TinhDienTich\obj\Debug\netcoreapp3.1\TinhDienTich.csprojAssemblyReference.cache
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_4\TinhDienTich\TinhDienTich\obj\Debug\netcoreapp3.1\TinhDienTich.AssemblyInfoInputs.cache
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_4\TinhDienTich\TinhDienTich\obj\Debug\netcoreapp3.1\TinhDienTich.AssemblyInfo.cs
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_4\TinhDienTich\TinhDienTich\obj\Debug\netcoreapp3.1\TinhDienTich.dll
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_4\TinhDienTich\TinhDienTich\obj\Debug\netcoreapp3.1\TinhDienTich.pdb

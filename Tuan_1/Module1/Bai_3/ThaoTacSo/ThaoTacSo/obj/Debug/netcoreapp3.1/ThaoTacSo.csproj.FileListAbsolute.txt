@@ -1,0 +1,11 @@
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_3\ThaoTacSo\ThaoTacSo\bin\Debug\netcoreapp3.1\ThaoTacSo.exe
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_3\ThaoTacSo\ThaoTacSo\bin\Debug\netcoreapp3.1\ThaoTacSo.deps.json
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_3\ThaoTacSo\ThaoTacSo\bin\Debug\netcoreapp3.1\ThaoTacSo.runtimeconfig.json
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_3\ThaoTacSo\ThaoTacSo\bin\Debug\netcoreapp3.1\ThaoTacSo.runtimeconfig.dev.json
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_3\ThaoTacSo\ThaoTacSo\bin\Debug\netcoreapp3.1\ThaoTacSo.dll
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_3\ThaoTacSo\ThaoTacSo\bin\Debug\netcoreapp3.1\ThaoTacSo.pdb
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_3\ThaoTacSo\ThaoTacSo\obj\Debug\netcoreapp3.1\ThaoTacSo.csprojAssemblyReference.cache
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_3\ThaoTacSo\ThaoTacSo\obj\Debug\netcoreapp3.1\ThaoTacSo.AssemblyInfoInputs.cache
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_3\ThaoTacSo\ThaoTacSo\obj\Debug\netcoreapp3.1\ThaoTacSo.AssemblyInfo.cs
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_3\ThaoTacSo\ThaoTacSo\obj\Debug\netcoreapp3.1\ThaoTacSo.dll
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_3\ThaoTacSo\ThaoTacSo\obj\Debug\netcoreapp3.1\ThaoTacSo.pdb

@@ -1,0 +1,11 @@
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_6\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.exe
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_6\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.deps.json
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_6\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.runtimeconfig.json
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_6\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.runtimeconfig.dev.json
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_6\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.dll
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_6\PhuongTrinhBac2\PhuongTrinhBac2\bin\Debug\netcoreapp3.1\PhuongTrinhBac2.pdb
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_6\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.csprojAssemblyReference.cache
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_6\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.AssemblyInfoInputs.cache
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_6\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.AssemblyInfo.cs
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_6\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.dll
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_6\PhuongTrinhBac2\PhuongTrinhBac2\obj\Debug\netcoreapp3.1\PhuongTrinhBac2.pdb
