@@ -1,0 +1,11 @@
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_8\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\netcoreapp3.1\ChuViDienTichTamGiac.exe
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_8\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\netcoreapp3.1\ChuViDienTichTamGiac.deps.json
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_8\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\netcoreapp3.1\ChuViDienTichTamGiac.runtimeconfig.json
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_8\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\netcoreapp3.1\ChuViDienTichTamGiac.runtimeconfig.dev.json
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_8\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\netcoreapp3.1\ChuViDienTichTamGiac.dll
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_8\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\netcoreapp3.1\ChuViDienTichTamGiac.pdb
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_8\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\netcoreapp3.1\ChuViDienTichTamGiac.csprojAssemblyReference.cache
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_8\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\netcoreapp3.1\ChuViDienTichTamGiac.AssemblyInfoInputs.cache
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_8\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\netcoreapp3.1\ChuViDienTichTamGiac.AssemblyInfo.cs
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_8\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\netcoreapp3.1\ChuViDienTichTamGiac.dll
+C:\Users\letra\OneDrive\Desktop\Lap-Trinh-Moi-Truong-Truc-Quan\Tuan_1\Module1\Bai_8\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\netcoreapp3.1\ChuViDienTichTamGiac.pdb
