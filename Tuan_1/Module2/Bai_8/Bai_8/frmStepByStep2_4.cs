@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace Bai_8
 {
-    public partial class Form1 : Form
+    public partial class frmStepByStep2_4 : Form
     {
         int count = -1;
-        public Form1()
+        public frmStepByStep2_4()
         {
             InitializeComponent();
         }
@@ -31,6 +31,12 @@ namespace Bai_8
         {
             Button button = (Button)sender;
             lblStatus.Text = "Status: " + button.Text + "  is clicked.";
+        }
+
+        private void btnRemove_Click(object sender, EventArgs e)
+        {
+            Button button = (Button)sender;
+            pnButton.Controls.Remove(button);
         }
     }
 }

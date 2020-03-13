@@ -1,6 +1,6 @@
 ﻿namespace Bai_8
 {
-    partial class Form1
+    partial class frmStepByStep2_4
     {
         /// <summary>
         /// Required designer variable.
@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             this.pnTop = new System.Windows.Forms.Panel();
+            this.lblStatus = new System.Windows.Forms.Label();
             this.pnBottom = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
-            this.lblStatus = new System.Windows.Forms.Label();
             this.btnAdd = new System.Windows.Forms.Button();
             this.btnRemove = new System.Windows.Forms.Button();
             this.pnButton = new System.Windows.Forms.Panel();
@@ -47,6 +47,16 @@
             this.pnTop.Name = "pnTop";
             this.pnTop.Size = new System.Drawing.Size(454, 45);
             this.pnTop.TabIndex = 0;
+            // 
+            // lblStatus
+            // 
+            this.lblStatus.AutoSize = true;
+            this.lblStatus.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblStatus.Location = new System.Drawing.Point(7, 9);
+            this.lblStatus.Name = "lblStatus";
+            this.lblStatus.Size = new System.Drawing.Size(292, 26);
+            this.lblStatus.TabIndex = 0;
+            this.lblStatus.Text = "Status: Element 4  is clicked.";
             // 
             // pnBottom
             // 
@@ -67,16 +77,6 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "A Button Stack";
             // 
-            // lblStatus
-            // 
-            this.lblStatus.AutoSize = true;
-            this.lblStatus.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblStatus.Location = new System.Drawing.Point(7, 9);
-            this.lblStatus.Name = "lblStatus";
-            this.lblStatus.Size = new System.Drawing.Size(292, 26);
-            this.lblStatus.TabIndex = 0;
-            this.lblStatus.Text = "Status: Element 4  is clicked.";
-            // 
             // btnAdd
             // 
             this.btnAdd.Location = new System.Drawing.Point(12, 279);
@@ -95,6 +95,7 @@
             this.btnRemove.TabIndex = 3;
             this.btnRemove.Text = "&Remove";
             this.btnRemove.UseVisualStyleBackColor = true;
+            this.btnRemove.Click += new System.EventHandler(this.btnRemove_Click);
             // 
             // pnButton
             // 
@@ -103,7 +104,7 @@
             this.pnButton.Size = new System.Drawing.Size(200, 251);
             this.pnButton.TabIndex = 4;
             // 
-            // Form1
+            // frmStepByStep2_4
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -113,8 +114,8 @@
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.pnBottom);
             this.Controls.Add(this.pnTop);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "frmStepByStep2_4";
+            this.Text = "StepByStep2_4";
             this.pnTop.ResumeLayout(false);
             this.pnTop.PerformLayout();
             this.pnBottom.ResumeLayout(false);
