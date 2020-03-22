@@ -1,0 +1,2 @@
+abstract: dành cho thuộc tính
+interface: triển khai hành vi riêng, ko chữa thuộc tính, ko chứa body, hỗ trợ đa thừa kế
