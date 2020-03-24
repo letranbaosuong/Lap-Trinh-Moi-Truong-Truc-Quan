@@ -99,6 +99,7 @@
             // 
             // pnButton
             // 
+            this.pnButton.AutoScroll = true;
             this.pnButton.Location = new System.Drawing.Point(137, 51);
             this.pnButton.Name = "pnButton";
             this.pnButton.Size = new System.Drawing.Size(200, 251);

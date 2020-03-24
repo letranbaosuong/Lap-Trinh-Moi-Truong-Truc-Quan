@@ -20,11 +20,20 @@ namespace Bai_8
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            count++;
-            Button newButton = new Button();
-            newButton.Text = "Element " + count.ToString();
-            newButton.Click += new System.EventHandler(Button_Click);
-            pnButton.Controls.Add(newButton);
+            Button btnRuntime = new Button();
+            btnRuntime.BackColor = Color.Red;
+            btnRuntime.Location = new System.Drawing.Point(pnButton.Width / 2 - btnRuntime.Width / 2,
+                 pnButton.Controls.Count * btnRuntime.Height);
+            btnRuntime.Text = "Element " + pnButton.Controls.Count;
+            btnRuntime.Tag = pnButton.Controls.Count;
+            btnRuntime.Click += btnRuntime_click;
+            pnButton.Controls.Add(btnRuntime);
+        }
+
+        private void btnRuntime_click(object sender, EventArgs e)
+        {
+            Button btn = (Button)sender;
+            lblStatus.Text = "Status: " + btn.Text + "  is clicked.";
         }
 
         private void Button_Click(object sender, EventArgs e)
@@ -35,8 +44,14 @@ namespace Bai_8
 
         private void btnRemove_Click(object sender, EventArgs e)
         {
-            Button button = (Button)sender;
-            pnButton.Controls.Remove(button);
+            try
+            {
+                pnButton.Controls.RemoveAt(pnButton.Controls.Count - 1);
+            }
+            catch
+            {
+
+            }
         }
     }
 }
