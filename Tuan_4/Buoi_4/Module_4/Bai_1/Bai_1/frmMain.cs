@@ -47,7 +47,7 @@ namespace Bai_1
                     else
                     {
                         efficieny = miles / galion;
-                        txtEfficieny.Text = efficieny.ToString();
+                        txtEfficieny.Text = Math.Round(efficieny, 2).ToString();
                     }
                 }
             }
