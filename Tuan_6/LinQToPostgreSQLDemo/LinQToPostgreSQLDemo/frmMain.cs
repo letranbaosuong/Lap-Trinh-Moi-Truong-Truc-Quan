@@ -8,11 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using DbCrudContext;
+using LinQToPostgreSQLDemo.Services;
 
 namespace LinQToPostgreSQLDemo
 {
     public partial class frmMain : Form
     {
+        private Service services = new Service();
         private DbCrudDataContext _db = new DbCrudDataContext();
         private int id = 0;
         private int countRow = 0;
@@ -58,10 +60,12 @@ namespace LinQToPostgreSQLDemo
         private void LoadData()
         {
             //dataGridView1.DataSource = _db.Cruds.Select(row => row);
-            dataGridView1.DataSource = from crud in _db.Cruds
+            /*dataGridView1.DataSource = from crud in _db.Cruds
                                        orderby crud.Id
                                        select crud;
-            toolStripStatusLabel1.Text = "Number of row(s): " + _db.Cruds.Count().ToString();
+            toolStripStatusLabel1.Text = "Number of row(s): " + _db.Cruds.Count().ToString();*/
+            dataGridView1.DataSource = services.layTatCaDanhSach();
+            toolStripStatusLabel1.Text = "Number of row(s): " + services.dem().ToString();
         }
 
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -103,15 +107,16 @@ namespace LinQToPostgreSQLDemo
             }
             else
             {
-                Crud newCrud = new Crud();
+                /*Crud newCrud = new Crud();
                 newCrud.FirstName = txtFirstName.Text.Trim();
                 newCrud.LastName = txtLastName.Text.Trim();
                 newCrud.Gender = cbGender.SelectedItem.ToString();
                 _db.Cruds.InsertOnSubmit(newCrud);
                 // Send the changes to the database.
                 // Until you do it, the changes are cached on the client side.
-                _db.SubmitChanges();
-                MessageBox.Show("Đã thêm thành công.", "Insert Data", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                _db.SubmitChanges();*/
+                services.them(txtFirstName.Text.Trim(), txtLastName.Text.Trim(), cbGender.SelectedItem.ToString());
+                /*MessageBox.Show("Đã thêm thành công.", "Insert Data", MessageBoxButtons.OK, MessageBoxIcon.Information);*/
                 LoadData();
                 ResetMe();
             }
@@ -144,7 +149,7 @@ namespace LinQToPostgreSQLDemo
                         _db.SubmitChanges();
                     }
                 }*/
-                var up_item = (from d in _db.Cruds 
+                /*var up_item = (from d in _db.Cruds 
                                where d.Id == id 
                                select d).FirstOrDefault();
                 if (up_item != null)
@@ -158,7 +163,10 @@ namespace LinQToPostgreSQLDemo
                     MessageBox.Show("Đã cập nhật thành công ID = " + id, "Update Data", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     LoadData();
                     ResetMe();
-                }
+                }*/
+                services.sua(id, txtFirstName.Text.Trim(), txtLastName.Text.Trim(), cbGender.SelectedItem.ToString());
+                LoadData();
+                ResetMe();
             }
             txtSearch.Clear();
         }
@@ -167,7 +175,7 @@ namespace LinQToPostgreSQLDemo
         {
             if (MessageBox.Show("Muốn xóa thiệt chứ?", "Delete Data", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1) == DialogResult.Yes)
             {
-                var del_item = (from d in _db.Cruds
+                /*var del_item = (from d in _db.Cruds
                                where d.Id == id
                                select d).FirstOrDefault();
                 if (del_item != null)
@@ -177,18 +185,22 @@ namespace LinQToPostgreSQLDemo
                     MessageBox.Show("Đã xóa thành công ID = " + id, "Delete Data", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     LoadData();
                     ResetMe();
-                }
+                }*/
+                services.xoa(id);
+                LoadData();
+                ResetMe();
             }
         }
 
         private void btnSearch_Click(object sender, EventArgs e)
         {
-            var query = _db.Cruds.Where(c => /*c.Id == Int64.Parse(txtSearch.Text.Trim())
-                                                ||*/ c.LastName.Contains(txtSearch.Text.Trim())
+            /*var query = _db.Cruds.Where(c => *//*c.Id == Int64.Parse(txtSearch.Text.Trim())
+                                                ||*//* c.LastName.Contains(txtSearch.Text.Trim())
                                                 || c.FirstName.Contains(txtSearch.Text.Trim())
                                                 || c.Gender.Contains(txtSearch.Text.Trim()))
                                                 .OrderBy(c => c.Id);
-            dataGridView1.DataSource = query;
+            dataGridView1.DataSource = query;*/
+            dataGridView1.DataSource = services.timKiem(txtSearch.Text.Trim());
             toolStripStatusLabel1.Text = "Number of row(s): " + dataGridView1.Rows.Count.ToString();
         }
 

@@ -127,6 +127,10 @@
                 <Hidden>false</Hidden>
               </Model>
             </Children>
+            <Location>
+              <X>104 px</X>
+              <Y>-56 px</Y>
+            </Location>
             <Size>
               <Width>150 px</Width>
               <Height>140 px</Height>
@@ -153,7 +157,7 @@
           <Scale>1</Scale>
           <Location>
             <X>-261 px</X>
-            <Y>-215 px</Y>
+            <Y>-279 px</Y>
           </Location>
         </ViewPort>
         <Oid xsi:type="SchemaModelOID">
