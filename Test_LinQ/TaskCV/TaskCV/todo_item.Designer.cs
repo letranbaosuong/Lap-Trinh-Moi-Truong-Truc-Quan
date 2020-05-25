@@ -100,10 +100,9 @@
         }
 
         #endregion
-
-        private Bunifu.Framework.UI.BunifuCheckbox ckbTodoItem;
         private Bunifu.Framework.UI.BunifuCustomLabel lblTodoItem;
         private Bunifu.Framework.UI.BunifuElipse bunifuElipse1;
         private Bunifu.Framework.UI.BunifuImageButton btnDelTodoItem;
+        public Bunifu.Framework.UI.BunifuCheckbox ckbTodoItem;
     }
 }
